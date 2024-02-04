@@ -6,6 +6,7 @@
 
 
 ## Instalacion: 
+Clonamos el repositorio del siguinte link: https://github.com/M4t3B4rriga/PROYECTO_MUSICA
 1. Instalacion de dependencias 
 ``` cmd 
 npm install
@@ -39,4 +40,8 @@ const firebaseConfig = {
 
 3. Cuando creamos nos parecera en los pasos que demos el codigo de conexion para nuestra base de datos 
 ![GET-imagen1](/img/codigo.png)
-4. Con eso le ingresamos en la el apartado de firebase.js que esta dentro de la parpeta src para poderlo modificar, cabe recalcar que solo se modifica esa parte del codigo nada mas. 
+4. Con eso le ingresamos en la el apartado de firebase.js que esta dentro de la parpeta src para poderlo modificar, cabe recalcar que solo se modifica esa parte del codigo nada mas.
+5. Iniciamos el programa con el comando
+```cmd
+npm start
+``` 
